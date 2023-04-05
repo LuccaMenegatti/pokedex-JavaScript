@@ -1,2 +1,5 @@
-# pokedex-JavaScript
-Project created to test skills in JavaScript, I used the pokeApi to carry out the project itself.
+# Pokedex-JavaScript
+This project was created with the intention of testing my javascript skills. The main challenge was to consume the API and handle the response in a way that was comfortable for the user.
+
+- To access the result of the project, just access the link: 
+- Para ter acesso ao resultado do projeto, basta acessar o link: 
